@@ -1,9 +1,9 @@
 {
-    "ownerNumber": ["622150996855@s.whatsapp.net","622150996855@s.whatsapp.net"],
-    "ownerName": "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×",
-    "instagram" : "https://instagram.com/zeeoneofc",
-    "botName": "Haruka-Mdོ ",
-    "footer": "api.zeeoneofc.xyz",
+    "ownerNumber": ["6285774269597@s.whatsapp.net","622150996855@s.whatsapp.net"],
+    "ownerName": "ᴹᴿ᭄ RafiiOfcོ ×፝֟͜×",
+    "instagram" : "https://instagram.com/arrafi.d.p.07_",
+    "botName": "Rafii-Mdོ ",
+    "footer": "api.rafiiofc.xyz",
     "sessionName": "session",
     "pathimg": "./media/Haruka.jpg",
     "BotKey": "Gsyt6jRJ",
@@ -18,6 +18,6 @@
     "limitCount": 25,
     "gcount": {
         "prem": 1000,
-        "user": 15
+        "user": 30
     }
 }
